@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\14028\Desktop\final sfml try\pacman sound try\Main.cpp(167,25): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  pacman sound try.vcxproj -> C:\Users\14028\Desktop\final sfml try\pacman sound try\x64\Debug\pacman sound try.exe
